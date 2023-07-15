@@ -3,6 +3,9 @@ This project aims to carry out the in-depth analysis of IMDB movie dataset. Exce
 
 ### video explaination:
 ### medium blog:
+<br><br>
+![image](https://github.com/sudhansuku/IMDB-Movie-Analysis/assets/107266430/b0b4e43e-6d21-44b6-b374-c33a5d181fc4)
+
 
 # Project description
 
