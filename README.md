@@ -1,7 +1,7 @@
 # IMDB-Movie-Analysis
 This project aims to carry out the in-depth analysis of IMDB movie dataset. Excel is used to draw insights.
 
-### video explaination:
+### video explaination: https://youtu.be/GHygtriNlN8
 ### medium blog:
 <br><br>
 ![image](https://github.com/sudhansuku/IMDB-Movie-Analysis/assets/107266430/b0b4e43e-6d21-44b6-b374-c33a5d181fc4)
